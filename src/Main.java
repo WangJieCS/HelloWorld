@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("when i changed,and then  what will be happend!");
         System.out.println("To test need or not need add!");
+        System.out.println("if something collide");
 
     }
 }
